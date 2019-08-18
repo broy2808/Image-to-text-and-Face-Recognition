@@ -10,4 +10,4 @@ On Client-side, page will upload images to the server, then output the results o
 
 Functionality 1 could potentially be expanded by analysis of handwritten text or digit recognition.
 Functionality 2 could potentially be expanded by capturing photos from the user’s webcam and saving it and then displaying it.
-[![Everything Is AWESOME](pic.PNG)](https://drive.google.com/drive/u/0/folders/1wJlJKu3-lJvD6mLz1yesotTXBxK5xoml "Everything Is AWESOME")
+[![Everything Is AWESOME](pic.PNG)](https://drive.google.com/file/d/1a2byWJSDQuDLV6f7_om3DxtCH2964VS1/view?usp=sharing "Everything Is AWESOME")
